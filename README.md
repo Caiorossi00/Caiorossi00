@@ -1,10 +1,11 @@
 # Sobre mim
 Estudo programação há dois anos e encontrei meu propósito nela: transformar criatividade em soluções digitais que combinam **expressão, funcionalidade e utilidade**.  
 Atuo como desenvolvedor Frontend e mais recentemente, tenho expandindo os meus conhecimentos em Backend.  
-Cursando Análise e Desenvolvimento de Sistemas (ADS) e pós-graduação em Desenvolvimento Fullstack.  
+
+Curso Análise e Desenvolvimento de Sistemas e pós-graduação em Desenvolvimento Fullstack. Também sou graduado em Turismo.
 
 Gosto de guiar meu aprendizado por meio projetos, por isso construí mais de 100 ao longo da minha jornada, passando por diferentes níveis e evoluindo constantemente.  
-Este GitHub, além de ser uma ferramenta funcional, funciona como uma **coleção visual da minha evolução e aprendizado**.
+Este GitHub, além de ser uma ferramenta funcional, funciona como uma **coleção pessoal da minha evolução e aprendizado**.
 Acredito que ajudar os outros é o caminho, por isso, neste GitHub, você encontrará diversos repositórios com o intuito de **auxiliar colegas programadores, empreendedores e qualquer pessoa interessada em tecnologia**, compartilhando conhecimento, ferramentas e soluções práticas.
 
 ## Contato
