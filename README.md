@@ -61,6 +61,14 @@ Nesse contexto, atuo de forma multidisciplinar, assumindo diferentes responsabil
 
 ---
 
+## Repositórios em destaque
+
+- ⚛️ **React em Profundidade** — Plano de estudos avançado de React com foco em **filosofia da biblioteca, arquitetura de componentes, hooks, gerenciamento de estado, renderização e padrões modernos**. Repositório estruturado em módulos com **anotações, exemplos práticos e reflexões técnicas** para aprofundamento no ecossistema React.
+
+- 📄 **Ajuda PEX Descomplica** — Guia criado para auxiliar alunos do curso de **Análise e Desenvolvimento de Sistemas** na execução do **Projeto de Extensão (PEX)**. Inclui um **PDF explicativo e o Gerador de PEX**, ferramenta que automatiza a criação do relatório utilizado por mais de **140 estudantes**.
+
+---
+
 ## Projetos
 
 - 📄 **Gerador de PEX** — Aplicação que permite a alunos preencher relatórios de projetos de extensão em um formulário interativo, visualizar o resultado em tempo real e baixar automaticamente um PDF pronto. Mais de **3.500 acessos singulares** e **140 usuários**.
