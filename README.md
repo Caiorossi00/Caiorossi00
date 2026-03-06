@@ -34,7 +34,7 @@ Lorem Ipsum
 
 <br>
 
-## Sobre mim
+![Sobre](assets/banners/Sobre.png)
 
 Sou desenvolvedor fullstack com foco em frontend, pós-graduado e com mais de três anos de estudo contínuo e experiência prática no desenvolvimento de aplicações web. Atuo na construção de interfaces de usuário e na implementação de funcionalidades no backend.
 
@@ -47,12 +47,14 @@ Nesse contexto, atuo de forma multidisciplinar, assumindo diferentes responsabil
 ## Formação
 
 ### 🎓 Pós-graduação
-**Desenvolvimento Fullstack** —  (03/2025 – 02/2026)  
+
+**Desenvolvimento Fullstack** — (03/2025 – 02/2026)  
 <a href="link-da-imagem-pos-graduacao.jpg" target="_blank">🔗 Ver diploma</a>
 <br>
 <br>
 
 ### 🎓 Graduação
+
 **Análise e Desenvolvimento de Sistemas** — (10/2024 – 06/2027)  
 <a href="link-da-imagem-ads.jpg" target="_blank">🔗 Cursando</a>
 
