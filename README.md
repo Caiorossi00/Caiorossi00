@@ -1,39 +1,3 @@
-<h1 align="center">Caio Rossi</h1>
-
-<p align="center">
-Desenvolvedor Fullstack • Brasil
-</p>
-
-<p align="center">
-Lorem Ipsum
-</p>
-
-<p align="center">
-
-<a href="https://linkedin.com/in/caio-rossi-dev">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://wa.me/53984158694">
-<img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
-<a href="mailto:caiorossi.code@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/caiorossi.dev">
-<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="link-do-cv">
-<img src="https://img.shields.io/badge/CV-000000?style=for-the-badge"/>
-</a>
-
-</p>
-
-<br>
-
 ![Sobre](assets/banners/Sobre.png)
 
 Sou desenvolvedor fullstack com foco em frontend, pós-graduado e com mais de três anos de estudo contínuo e experiência prática no desenvolvimento de aplicações web. Atuo na construção de interfaces de usuário e na implementação de funcionalidades no backend.
@@ -44,7 +8,7 @@ Nesse contexto, atuo de forma multidisciplinar, assumindo diferentes responsabil
 
 ---
 
-## Formação
+![Formação Acadêmica](assets/banners/Formacao.png)
 
 ### 🎓 Pós-graduação
 
@@ -63,7 +27,7 @@ Nesse contexto, atuo de forma multidisciplinar, assumindo diferentes responsabil
 
 ---
 
-## Repositórios em destaque
+![Repositórios em destaque](assets/banners/Repositorios.png)
 
 - ⚛️ **React em Profundidade** — Plano de estudos avançado de React com foco em **filosofia da biblioteca, arquitetura de componentes, hooks, gerenciamento de estado, renderização e padrões modernos**. Repositório estruturado em módulos com **anotações, exemplos práticos e reflexões técnicas** para aprofundamento no ecossistema React.
 
@@ -71,7 +35,7 @@ Nesse contexto, atuo de forma multidisciplinar, assumindo diferentes responsabil
 
 ---
 
-## Projetos
+![Projetos](assets/banners/Projetos.png)
 
 - 📄 **Gerador de PEX** — Aplicação que permite a alunos preencher relatórios de projetos de extensão em um formulário interativo, visualizar o resultado em tempo real e baixar automaticamente um PDF pronto. Mais de **3.500 acessos singulares** e **140 usuários**.
 
@@ -87,7 +51,7 @@ Nesse contexto, atuo de forma multidisciplinar, assumindo diferentes responsabil
 
 ---
 
-## Hackathons
+![Reconhecimento e conquistas](assets/banners/Reconhecimento.png)
 
 - 🏆 **Hackathon Bemobi 2025** — Finalista, atuando na prototipagem e desenvolvimento de solução tecnológica em ambiente de alta colaboração e prazo curto.
 
