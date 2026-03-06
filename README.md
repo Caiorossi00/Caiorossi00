@@ -1,3 +1,21 @@
+<p align="center">
+<a href="https://github.com/caiorossi00">
+<img src="assets/icons/Github.png" height="30">
+</a>
+
+<a href="https://linkedin.com/in/caio-rossi-dev">
+<img src="assets/icons/Linkedin.png" height="30">
+</a>
+
+<a href="mailto:caiorossi.code@gmail.com">
+<img src="assets/icons/Gmail.png" height="30">
+</a>
+
+<a href="link-do-cv">
+<img src="assets/icons/Curriculo.png" height="30">
+</a>
+</p>
+
 ![Sobre](assets/banners/Sobre.png)
 
 Sou desenvolvedor fullstack com foco em frontend, pós-graduado e com mais de três anos de estudo contínuo e experiência prática no desenvolvimento de aplicações web. Atuo na construção de interfaces de usuário e na implementação de funcionalidades no backend.
