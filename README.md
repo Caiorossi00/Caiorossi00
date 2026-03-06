@@ -79,4 +79,7 @@ Nesse contexto, atuo de forma multidisciplinar, assumindo diferentes responsabil
 CS50x — Introduction to Computer Science (Harvard University)
 </a>
 
+<br>
+<br>
+
 ![Assinatura](assets/images/Signature.png)
