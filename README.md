@@ -78,3 +78,5 @@ Nesse contexto, atuo de forma multidisciplinar, assumindo diferentes responsabil
 🎓 <a href="LINK_DO_CERTIFICADO" target="_blank">
 CS50x — Introduction to Computer Science (Harvard University)
 </a>
+
+![Assinatura](assets/images/Signature.png)
