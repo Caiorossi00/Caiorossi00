@@ -11,7 +11,7 @@
 <img src="assets/icons/Gmail.png" height="30">
 </a>
 
-<a href="link-do-cv">
+<a href="https://drive.google.com/file/d/1tevCxc0UTVzt-zGgPU4LtxRS_0rSzbHS/view?usp=sharing">
 <img src="assets/icons/Curriculo.png" height="30">
 </a>
 </p>
