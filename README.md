@@ -28,22 +28,28 @@ Nesse contexto, atuo de forma multidisciplinar, assumindo diferentes responsabil
 
 ---
 
-![Formação Acadêmica](assets/banners/Formacao.png)
+<div align="center">
+
+<img src="assets/banners/Formacao.png" alt="Formação Acadêmica" />
 
 ### 🎓 Pós-graduação
 
 **Desenvolvimento Fullstack** — (03/2025 – 02/2026)  
-<a href="link-da-imagem-pos-graduacao.jpg" target="_blank">🔗 Ver diploma</a>
-<br>
-<br>
+<a href="./assets/docs/Pós.png" target="_blank">🔗 Ver diploma</a>
+
+<br><br>
 
 ### 🎓 Graduação
 
 **Análise e Desenvolvimento de Sistemas** — (10/2024 – 06/2027)  
 <a href="link-da-imagem-ads.jpg" target="_blank">🔗 Cursando</a>
 
+<br>
+
 **Tecnologia em Gestão de Turismo** — (2018 – 2021)  
 <a href="link-da-imagem-turismo.jpg" target="_blank">🔗 Ver diploma</a>
+
+</div>
 
 ---
 
@@ -77,9 +83,12 @@ Nesse contexto, atuo de forma multidisciplinar, assumindo diferentes responsabil
 
 ## Certificações
 
-🎓 <a href="LINK_DO_CERTIFICADO" target="_blank">
+🎓 <a href="./assets/docs/CS50x.pdf" target="_blank">
 CS50x — Introduction to Computer Science (Harvard University)
 </a>
+
+🎓 <a href="./assets/docs/CS50T.pdf" target="_blank">
+CS50t - Understanding Technology</a>
 
 <br>
 
