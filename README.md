@@ -63,7 +63,7 @@ Nesse contexto, atuo de forma multidisciplinar, assumindo diferentes responsabil
 
 ![Projetos](assets/banners/Projetos.png)
 
-- 📄 **Gerador de PEX** — Aplicação que permite a alunos preencher relatórios de projetos de extensão em um formulário interativo, visualizar o resultado em tempo real e baixar automaticamente um PDF pronto. Mais de **3.500 acessos singulares** e **140 usuários**.
+- 📄 **Gerador de PEX** — Aplicação que permite a alunos preencher relatórios de projetos de extensão em um formulário interativo, visualizar o resultado em tempo real e baixar automaticamente um PDF pronto. Mais de **10.000 acessos singulares** e **180 usuários**.
 
 - 💰 **CashMate** — Aplicativo que simplifica contagem de dinheiro, cálculo de troco e retirada de valores no fechamento do caixa utilizando um algoritmo guloso. Atualmente utilizado por **dois clientes ativos**.
 
