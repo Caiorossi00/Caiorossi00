@@ -31,13 +31,14 @@ Nesse contexto, atuo de forma multidisciplinar, assumindo diferentes responsabil
 <div align="center">
 
 <img src="assets/banners/Formacao.png" alt="Formação Acadêmica" />
+<br>
 
 ### 🎓 Pós-graduação
 
 **Desenvolvimento Fullstack** — (03/2025 – 02/2026)  
 <a href="./assets/docs/Pós.png" target="_blank">🔗 Ver diploma</a>
 
-<br><br>
+<br>
 
 ### 🎓 Graduação
 
