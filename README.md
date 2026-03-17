@@ -1,4 +1,3 @@
-<p align="center">
 <h1>Read.me em construção</h1>
 <br>
 
