@@ -1,6 +1,4 @@
 <h1>Read.me em construção</h1>
-<br>
-
 <div align="center">
 <a href="https://github.com/caiorossi00">
 <img src="assets/icons/Github.png" height="30">
@@ -18,7 +16,6 @@
 <img src="assets/icons/Curriculo.png" height="30">
 </a>
 <div>
-</p>
 
 ![Sobre](assets/banners/Sobre.png)
 
