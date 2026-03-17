@@ -15,7 +15,7 @@
 <a href="https://drive.google.com/file/d/1tevCxc0UTVzt-zGgPU4LtxRS_0rSzbHS/view?usp=sharing">
 <img src="assets/icons/Curriculo.png" height="30">
 </a>
-<div>
+</div>
 
 ![Sobre](assets/banners/Sobre.png)
 
@@ -31,13 +31,12 @@ Nesse contexto, atuo de forma multidisciplinar, assumindo diferentes responsabil
 
 <img src="assets/banners/Formacao.png" alt="Formação Acadêmica" />
 <br>
+<br>
 
 ### 🎓 Pós-graduação
 
 **Desenvolvimento Fullstack** — (03/2025 – 02/2026)  
 <a href="./assets/docs/Pós.png" target="_blank">🔗 Ver diploma</a>
-
-<br>
 
 ### 🎓 Graduação
 
