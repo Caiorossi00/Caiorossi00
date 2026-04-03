@@ -24,7 +24,7 @@ Trabalho na construção completa de produtos digitais, envolvendo frontend, bac
 
 Tenho experiência prática com aplicações utilizadas por usuários e clientes, sempre priorizando não apenas a implementação técnica, mas também a experiência e os resultados de negócio.
 
-Atuo também como freelancer através da minha marca pessoal **caiorossi.dev**, onde desenvolvo soluções digitais e participo de todo o ciclo do produto, incluindo definição, design, desenvolvimento, validação e aquisição de clientes.
+Atuo também como freelancer através da minha marca pessoal **Caiorossi.dev**, onde desenvolvo soluções digitais e participo de todo o ciclo do produto, incluindo definição, design, desenvolvimento, validação e aquisição de clientes.
 
 ---
 
@@ -66,28 +66,25 @@ Evoluiu de um plano de estudo pessoal para um eBook estruturado, criado para com
 🔗 [Ver repositório](https://github.com/Caiorossi00/Engenharia-Frontend-em-Profundidade)  
 📘 [Ebook - React em profundidade: Anotações e reflexões sobre engenharia de interfaces](./assets/docs/ReactEmProfundidade.pdf)
 
+<hr>
 📄 **Ajuda PEX Descomplica**
 
 Solução para automatizar a criação do Projeto de Extensão (PEX) da faculdade descomplica, reduzindo um processo manual e repetitivo, o projeto foi acessado por mais de 10.000 usuários.
 
-🔗 [Ver repositório](https://github.com/Caiorossi00/Ajuda-PEX-Descomplica)
+🔗 [Ver repositório](https://github.com/Caiorossi00/Ajuda-PEX-Descomplica)  
 📦 [Acessar Gerador de PEX](https://geradordepex.vercel.app/)
 
 ---
 
 ![Projetos](assets/banners/Projetos.png)
 
-- 📄 **Gerador de PEX** — Aplicação que permite a alunos preencher relatórios de projetos de extensão em um formulário interativo, visualizar o resultado em tempo real e baixar automaticamente um PDF pronto. Mais de **10.000 acessos singulares** e **180 usuários**.
+- [Bookbay](https://www.bookbay.store/) — Plataforma fullstack de e-commerce para venda de livros usados, com painel administrativo e API própria.
 
-- 💰 **CashMate** — Aplicativo que simplifica contagem de dinheiro, cálculo de troco e retirada de valores no fechamento do caixa utilizando um algoritmo guloso. Atualmente utilizado por **dois clientes ativos**.
+- [Prospex](./assets/images/prospex.png) — Plataforma para geração e qualificação automatizada de leads com uso de web scraping + IA (100 potenciais clientes em ~2 minutos).
 
-- 📚 **Bookbay** — Plataforma de e-commerce fullstack para venda de livros usados com painel administrativo, roteamento e API própria em Node.js. Com a aplicação no ar, cerca de **30% do catálogo original foi vendido**.
+- [Yara Justino](https://www.yarajustino.com/) — Landing page profissional com foco em SEO, performance e conversão.
 
-- ⚖️ **Yara Justino** — Landing page responsiva desenvolvida para uma cliente e seu escritório de advocacia. Projeto com foco em **SEO e performance**, alcançando **nota 100 no Lighthouse**.
-
-- ⚽ **Quem Joga?** — Aplicação para acompanhar ligas de futebol e jogos do dia, consumindo API externa em tempo real para exibir horários e logos das equipes.
-
-- 🤖 **Lead Scraper & AI Qualification Engine** — Aplicação para geração automatizada de leads a partir de buscas no Google, com extração de perfis do Instagram e dados estruturados. Permite encontrar e qualificar **100+ perfis profissionais em menos de 5 minutos**, exportando dados em **JSON e CSV** e utilizando **IA local via Ollama** para classificar leads e gerar abordagens comerciais personalizadas.
+- [CashMate](https://caiorossi00.github.io/CashMate/) — Aplicativo para contagem de dinheiro, cálculo de troco e fechamento de caixa utilizando algoritmo guloso.
 
 ---
 
