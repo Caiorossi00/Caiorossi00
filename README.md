@@ -1,24 +1,26 @@
 <h1 align="center">Caio Rossi</h1>
-<a href="https://github.com/caiorossi00">
-<img src="assets/icons/Github.png" height="30">
-</a>
+<div align="center">
+  <a href="https://github.com/caiorossi00">
+    <img src="assets/icons/Github.png" height="30">
+  </a>
 
-<a href="https://linkedin.com/in/caio-rossi-dev">
-<img src="assets/icons/Linkedin.png" height="30">
-</a>
+  <a href="https://linkedin.com/in/caio-rossi-dev">
+    <img src="assets/icons/Linkedin.png" height="30">
+  </a>
 
-<a href="mailto:caiorossi.code@gmail.com">
-<img src="assets/icons/Gmail.png" height="30">
-</a>
+  <a href="mailto:caiorossi.code@gmail.com">
+    <img src="assets/icons/Gmail.png" height="30">
+  </a>
 
-<a href="https://drive.google.com/file/d/1tevCxc0UTVzt-zGgPU4LtxRS_0rSzbHS/view?usp=sharing">
-<img src="assets/icons/Curriculo.png" height="30">
-</a>
+  <a href="https://drive.google.com/file/d/1tevCxc0UTVzt-zGgPU4LtxRS_0rSzbHS/view?usp=sharing">
+    <img src="assets/icons/Curriculo.png" height="30">
+  </a>
 </div>
+<br>
 
 ![Sobre](assets/banners/SobreNew.png)
 
-Sou desenvolvedor fullstack com atuação ponta a ponta no desenvolvimento de aplicações web — desde a concepção da ideia até o deploy.
+Sou desenvolvedor fullstack com foco em frontend, com atuação ponta a ponta no desenvolvimento de aplicações web - desde a concepção da ideia até o deploy.
 
 Trabalho na construção completa de produtos digitais, envolvendo frontend, backend e UI/UX design, com foco em performance, usabilidade e impacto real para o usuário.
 
@@ -52,7 +54,7 @@ Formação com foco em planejamento da atividade turística em nível municipal,
 
 ![Repositórios em destaque](assets/banners/Repositorios.png)
 
-⚛️ **Engenharia Frontend em Profundidade**
+### Engenharia Frontend em Profundidade
 
 Estudo teórico autoral avançado de engenharia frontend, focado em JavaScript, React e arquitetura de aplicações modernas.  
 Evoluiu de um plano de estudo pessoal para um eBook estruturado, criado para compartilhar esse modelo com outros desenvolvedores.
@@ -62,7 +64,7 @@ Evoluiu de um plano de estudo pessoal para um eBook estruturado, criado para com
 
 <hr>
 
-📄 **Ajuda PEX Descomplica**
+### Ajuda PEX Descomplica
 
 Solução para automatizar a criação do Projeto de Extensão (PEX) da faculdade descomplica, reduzindo um processo manual e repetitivo, o projeto foi acessado por mais de 10.000 usuários.
 
