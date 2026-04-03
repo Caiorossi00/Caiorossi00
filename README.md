@@ -1,5 +1,4 @@
-<h1>Read.me em construção</h1>
-<div align="center">
+<h1 align="center">Caio Rossi</h1>
 <a href="https://github.com/caiorossi00">
 <img src="assets/icons/Github.png" height="30">
 </a>
@@ -17,46 +16,81 @@
 </a>
 </div>
 
-![Sobre](assets/banners/SobreNew.png)
+![Sobre](assets/banners/Sobre.png)
 
-Sou desenvolvedor fullstack com foco em frontend, pós-graduado e com mais de três anos de estudo contínuo e experiência prática no desenvolvimento de aplicações web. Atuo na construção de interfaces de usuário e na implementação de funcionalidades no backend.
+Sou desenvolvedor fullstack com atuação ponta a ponta no desenvolvimento de aplicações web — desde a concepção da ideia até o deploy.
 
-Atuo também como desenvolvedor freelancer sob a marca pessoal **caiorossi.dev**, onde venho estruturando e fortalecendo minha presença profissional por meio da produção de conteúdo e posicionamento da marca, principalmente através do Instagram.
+Trabalho na construção completa de produtos digitais, envolvendo frontend, backend e UI/UX design, com foco em performance, usabilidade e impacto real para o usuário.
 
-Nesse contexto, atuo de forma multidisciplinar, assumindo diferentes responsabilidades ao longo do ciclo de desenvolvimento, incluindo concepção da ideia, design, desenvolvimento frontend e backend, além de atividades relacionadas à comunicação, vendas e marketing dos projetos.
+Tenho experiência prática com aplicações utilizadas por usuários e clientes, sempre priorizando não apenas a implementação técnica, mas também a experiência e os resultados de negócio.
+
+Atuo também como freelancer através da minha marca pessoal **caiorossi.dev**, onde desenvolvo soluções digitais e participo de todo o ciclo do produto, incluindo definição, design, desenvolvimento, validação e aquisição de clientes.
 
 ---
-
-<div align="center">
 
 <img src="assets/banners/Formacao.png" alt="Formação Acadêmica" />
 <br>
 <br>
 
-### 🎓 Pós-graduação
+### 🚀 Pós-graduação em Desenvolvimento Fullstack
 
-**Desenvolvimento Fullstack** — (03/2025 – 02/2026)  
-<a href="./assets/docs/Pós.png" target="_blank">🔗 Ver diploma</a>
+03/2025 – 02/2026  
+Formação focada na construção de aplicações completas, abordando frontend, backend e arquitetura.  
+<sub>🔗 <a href="./assets/docs/Pós.png" target="_blank">Ver diploma</a></sub>
 
-### 🎓 Graduação
+---
 
-**Análise e Desenvolvimento de Sistemas** — (10/2024 – 06/2027)  
-<a href="link-da-imagem-ads.jpg" target="_blank">🔗 Cursando</a>
+### 💻 Análise e Desenvolvimento de Sistemas _(em andamento)_
 
-<br>
+10/2024 – 06/2027  
+Formação voltada ao desenvolvimento de software, com base em lógica de programação, estrutura de dados e construção de sistemas.  
+<sub>📄 Em andamento</sub>
 
-**Tecnologia em Gestão de Turismo** — (2018 – 2021)  
-<a href="link-da-imagem-turismo.jpg" target="_blank">🔗 Ver diploma</a>
+---
 
-</div>
+### 🌍 Tecnologia em Gestão de Turismo
+
+2018 – 2021  
+Formação com foco em planejamento da atividade turística em nível municipal, envolvendo análise territorial, organização de serviços e desenvolvimento estratégico do turismo local.  
+<sub>🔗 <a href="./assets/docs/turismo.png" target="_blank">Ver diploma</a></sub>
 
 ---
 
 ![Repositórios em destaque](assets/banners/Repositorios.png)
 
-- ⚛️ **React em Profundidade** — Plano de estudos avançado de React com foco em **filosofia da biblioteca, arquitetura de componentes, hooks, gerenciamento de estado, renderização e padrões modernos**. Repositório estruturado em módulos com **anotações, exemplos práticos e reflexões técnicas** para aprofundamento no ecossistema React.
+⚛️ **Engenharia Frontend em Profundidade**
 
-- 📄 **Ajuda PEX Descomplica** — Guia criado para auxiliar alunos do curso de **Análise e Desenvolvimento de Sistemas** na execução do **Projeto de Extensão (PEX)**. Inclui um **PDF explicativo e o Gerador de PEX**, ferramenta que automatiza a criação do relatório utilizado por mais de **140 estudantes**.
+Repositório autoral estruturado como um plano avançado de estudo em engenharia frontend, com foco em JavaScript, React e arquitetura de aplicações modernas.
+
+O projeto teve início como um plano de estudos pessoal, desenvolvido para aprofundar lacunas técnicas e estruturar uma evolução consistente. Posteriormente, foi refinado e organizado em formato de eBook, com o objetivo de compartilhar esse modelo com outros desenvolvedores.
+
+O conteúdo vai além do uso de ferramentas, abordando modelo mental, tomada de decisão técnica e compreensão dos mecanismos internos que sustentam aplicações escaláveis.
+
+- Estruturado em módulos progressivos (fundamentos → arquitetura → performance → sistemas)
+- Cobertura profunda de React (Fiber, renderização, hooks, concorrência)
+- Base sólida de JavaScript (execução, event loop, closures, protótipos)
+- Ênfase em arquitetura, padrões e pensamento sistêmico
+- Material autoral com foco em evolução contínua e aprofundamento técnico
+
+🔗 [Ver repositório](https://github.com/Caiorossi00/Engenharia-Frontend-em-Profundidade)
+📘 [React em profundidade: Anotações e reflexões sobre engenharia de interfaces](./assets//docs/ReactEmProfundidade.pdf)
+
+📄 **Ajuda PEX Descomplica**
+
+Solução desenvolvida para simplificar a execução do Projeto de Extensão (PEX), reduzindo a complexidade e o tempo necessário para criação dos relatórios.
+
+O projeto surgiu a partir de uma necessidade real identificada durante a graduação e evoluiu para uma ferramenta utilizada por estudantes para automatizar um processo manual e repetitivo.
+
+- +10000 estudantes impactados
+- Geração automatizada de relatórios em PDF
+- Formulário interativo com preenchimento guiado
+- Pré-visualização em tempo real do documento
+- Interface responsiva e focada em usabilidade
+
+Além do guia explicativo em PDF, o projeto inclui o **Gerador de PEX**, uma aplicação que permite criar relatórios completos de forma rápida e estruturada.
+
+🔗 [Ver repositório](https://github.com/Caiorossi00/Ajuda-PEX-Descomplica)
+📦 [Acessar Gerador de PEX](https://geradordepex.vercel.app/)
 
 ---
 
