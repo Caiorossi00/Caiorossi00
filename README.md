@@ -38,23 +38,17 @@ Atuo também como freelancer através da minha marca pessoal **Caiorossi.dev**, 
 Formação focada na construção de aplicações completas, abordando frontend, backend e arquitetura.  
 <sub>🔗 <a href="./assets/docs/Pós.png" target="_blank">Ver diploma</a></sub>
 
----
-
 ### Análise e Desenvolvimento de Sistemas _(em andamento)_
 
 10/2024 – 06/2027  
 Formação voltada ao desenvolvimento de software, com base em lógica de programação, estrutura de dados e construção de sistemas.  
 <sub>📄 Em andamento</sub>
 
----
-
 ### Tecnologia em Gestão de Turismo
 
 2018 – 2021  
 Formação com foco em planejamento da atividade turística em nível municipal, envolvendo análise territorial, organização de serviços e desenvolvimento estratégico do turismo local.  
 <sub>🔗 <a href="./assets/docs/turismo.png" target="_blank">Ver diploma</a></sub>
-
----
 
 ![Repositórios em destaque](assets/banners/Repositorios.png)
 
