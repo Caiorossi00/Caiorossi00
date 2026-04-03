@@ -90,7 +90,7 @@ Solução para automatizar a criação do Projeto de Extensão (PEX) da faculdad
 ## Certificações
 
 🎓 <a href="./assets/docs/CS50x.pdf" target="_blank">
-CS50x — Introduction to Computer Science (Harvard University)
+CS50x - Introduction to Computer Science (Harvard University)
 </a>
 
 🎓 <a href="./assets/docs/CS50T.pdf" target="_blank">
