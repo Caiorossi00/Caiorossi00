@@ -67,6 +67,7 @@ Evoluiu de um plano de estudo pessoal para um eBook estruturado, criado para com
 📘 [Ebook - React em profundidade: Anotações e reflexões sobre engenharia de interfaces](./assets/docs/ReactEmProfundidade.pdf)
 
 <hr>
+
 📄 **Ajuda PEX Descomplica**
 
 Solução para automatizar a criação do Projeto de Extensão (PEX) da faculdade descomplica, reduzindo um processo manual e repetitivo, o projeto foi acessado por mais de 10.000 usuários.
@@ -78,13 +79,13 @@ Solução para automatizar a criação do Projeto de Extensão (PEX) da faculdad
 
 ![Projetos](assets/banners/Projetos.png)
 
-- [Bookbay](https://www.bookbay.store/) — Plataforma fullstack de e-commerce para venda de livros usados, com painel administrativo e API própria.
+- [Bookbay](https://www.bookbay.store/): Plataforma fullstack de e-commerce para venda de livros usados, com painel administrativo e API própria.
 
-- [Prospex](./assets/images/prospex.png) — Plataforma para geração e qualificação automatizada de leads com uso de web scraping + IA (100 potenciais clientes em ~2 minutos).
+- [Prospex](./assets/images/prospex.png): Ferramenta para geração e qualificação de leads com uso de web scraping + IA (100 potenciais clientes em ~2 minutos).
 
-- [Yara Justino](https://www.yarajustino.com/) — Landing page profissional com foco em SEO, performance e conversão.
+- [Yara Justino](https://www.yarajustino.com/): Landing page profissional com foco em SEO, performance e conversão (100 em todas as métricas no lighthouse).
 
-- [CashMate](https://caiorossi00.github.io/CashMate/) — Aplicativo para contagem de dinheiro, cálculo de troco e fechamento de caixa utilizando algoritmo guloso.
+- [CashMate](https://caiorossi00.github.io/CashMate/): Aplicativo para contagem de dinheiro, cálculo de troco e fechamento de caixa utilizando algoritmo guloso.
 
 ---
 
