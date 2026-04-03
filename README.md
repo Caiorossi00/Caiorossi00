@@ -48,6 +48,8 @@ Formação voltada ao desenvolvimento de software, com base em lógica de progra
 Formação com foco em planejamento da atividade turística em nível municipal, envolvendo análise territorial, organização de serviços e desenvolvimento estratégico do turismo local.  
 <sub>🔗 <a href="./assets/docs/turismo.png" target="_blank">Ver diploma</a></sub>
 
+---
+
 ![Repositórios em destaque](assets/banners/Repositorios.png)
 
 ⚛️ **Engenharia Frontend em Profundidade**
