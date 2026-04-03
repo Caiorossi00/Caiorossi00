@@ -17,7 +17,7 @@
 </a>
 </div>
 
-![Sobre](assets/banners/Sobre.png)
+![Sobre](assets/banners/SobreNew.png)
 
 Sou desenvolvedor fullstack com foco em frontend, pós-graduado e com mais de três anos de estudo contínuo e experiência prática no desenvolvimento de aplicações web. Atuo na construção de interfaces de usuário e na implementação de funcionalidades no backend.
 
