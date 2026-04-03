@@ -16,7 +16,7 @@
 </a>
 </div>
 
-![Sobre](assets/banners/Sobre.png)
+![Sobre](assets/banners/SobreNew.png)
 
 Sou desenvolvedor fullstack com atuação ponta a ponta no desenvolvimento de aplicações web — desde a concepção da ideia até o deploy.
 
