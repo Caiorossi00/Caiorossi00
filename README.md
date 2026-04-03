@@ -29,8 +29,6 @@ Atuo também como freelancer através da minha marca pessoal **Caiorossi.dev**, 
 ---
 
 <img src="assets/banners/Formacao.png" alt="Formação Acadêmica" />
-<br>
-<br>
 
 ### Pós-graduação em Desenvolvimento Fullstack
 
