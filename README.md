@@ -73,13 +73,13 @@ Solução para automatizar a criação do Projeto de Extensão (PEX) da faculdad
 
 ![Projetos](assets/banners/Projetos.png)
 
-- [Bookbay](https://www.bookbay.store/): Plataforma fullstack de e-commerce para venda de livros usados, com painel administrativo e API própria.
+- [Bookbay](https://www.bookbay.store/) : Plataforma fullstack de e-commerce para venda de livros usados, com painel administrativo e API própria.
 
-- [Prospex](./assets/images/prospex.png): Ferramenta para geração e qualificação de leads com uso de web scraping + IA (100 potenciais clientes em ~2 minutos).
+- [Prospex](./assets/images/Prospex.png) : Ferramenta para geração e qualificação de leads com uso de web scraping + IA (100 potenciais clientes em ~2 minutos).
 
-- [Yara Justino](https://www.yarajustino.com/): Landing page profissional com foco em SEO, performance e conversão (100 em todas as métricas no lighthouse).
+- [Yara Justino](https://www.yarajustino.com/) : Landing page profissional com foco em SEO, performance e conversão (100 em todas as métricas no lighthouse).
 
-- [CashMate](https://caiorossi00.github.io/CashMate/): Aplicativo para contagem de dinheiro, cálculo de troco e fechamento de caixa utilizando algoritmo guloso.
+- [CashMate](https://caiorossi00.github.io/CashMate/) : Aplicativo para contagem de dinheiro, cálculo de troco e fechamento de caixa utilizando algoritmo guloso.
 
 ---
 
