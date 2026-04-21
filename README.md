@@ -24,7 +24,8 @@ Sou desenvolvedor frontend, com atuação ponta a ponta no desenvolvimento de ap
 
 Atualmente, atuo como estagiário desenvolvedor frontend na X-brain Desenvolvimento de Sistemas, trabalhando com React no desenvolvimento de aplicações web em ambiente profissional.
 
-Também atuo como freelancer através da minha marca pessoal **Caiorossi.dev**, desenvolvendo soluções digitais e participando de todo o ciclo do produto — da definição ao desenvolvimento e validação.
+Também atuo como freelancer através da minha marca pessoal **Caiorossi.dev**, desenvolvendo soluções digitais e participando de todo o ciclo do produto, da definição ao desenvolvimento e validação.
+
 ---
 
 <img src="assets/banners/Formacao.png" alt="Formação Acadêmica" />
