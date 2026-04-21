@@ -20,14 +20,11 @@
 
 ![Sobre](assets/banners/SobreNew.png)
 
-Sou desenvolvedor fullstack com foco em frontend, com atuação ponta a ponta no desenvolvimento de aplicações web - desde a concepção da ideia até o deploy.
+Sou desenvolvedor frontend, com atuação ponta a ponta no desenvolvimento de aplicações web — da concepção ao deploy.
 
-Trabalho na construção completa de produtos digitais, envolvendo frontend, backend e UI/UX design, com foco em performance, usabilidade e impacto real para o usuário.
+Atualmente, atuo como estagiário desenvolvedor frontend na X-brain Desenvolvimento de Sistemas, trabalhando com React no desenvolvimento de aplicações web em ambiente profissional.
 
-Tenho experiência prática com aplicações utilizadas por usuários e clientes, sempre priorizando não apenas a implementação técnica, mas também a experiência e os resultados de negócio.
-
-Atuo também como freelancer através da minha marca pessoal **Caiorossi.dev**, onde desenvolvo soluções digitais e participo de todo o ciclo do produto, incluindo definição, design, desenvolvimento, validação e aquisição de clientes.
-
+Também atuo como freelancer através da minha marca pessoal **Caiorossi.dev**, desenvolvendo soluções digitais e participando de todo o ciclo do produto — da definição ao desenvolvimento e validação.
 ---
 
 <img src="assets/banners/Formacao.png" alt="Formação Acadêmica" />
